@@ -1,0 +1,15 @@
+h1, h2 {
+    text-align: center;
+    color: #FFD700;
+    filter: blur(.5px);
+}
+
+* {
+    background-color: rgb(14, 14, 14);
+}
+
+*::selection {
+    background-color: #FFD700;
+    color: black;
+}
+
