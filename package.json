@@ -2,9 +2,9 @@
   "name": "simple-pics-viewer",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://chrysidoidea.github.io/simple_pictures_viewer/",
   "dependencies": {
     "@emotion/react": "^11.10.6",
-    "@emotion/styled": "^11.10.6",
     "@mui/icons-material": "^5.11.16",
     "@mui/material": "^5.11.7",
     "@testing-library/jest-dom": "^5.16.5",
@@ -17,6 +17,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
