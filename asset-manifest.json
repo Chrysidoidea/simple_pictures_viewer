@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Chrysidoidea/simple_pictures_viewer/static/css/main.26e512e2.css",
-    "main.js": "/Chrysidoidea/simple_pictures_viewer/static/js/main.f1109496.js",
-    "static/js/787.b34f3f5b.chunk.js": "/Chrysidoidea/simple_pictures_viewer/static/js/787.b34f3f5b.chunk.js",
-    "index.html": "/Chrysidoidea/simple_pictures_viewer/index.html",
-    "main.26e512e2.css.map": "/Chrysidoidea/simple_pictures_viewer/static/css/main.26e512e2.css.map",
-    "main.f1109496.js.map": "/Chrysidoidea/simple_pictures_viewer/static/js/main.f1109496.js.map",
-    "787.b34f3f5b.chunk.js.map": "/Chrysidoidea/simple_pictures_viewer/static/js/787.b34f3f5b.chunk.js.map"
+    "main.css": "/simple_pictures_viewer/static/css/main.26e512e2.css",
+    "main.js": "/simple_pictures_viewer/static/js/main.bb9440f7.js",
+    "static/js/787.b34f3f5b.chunk.js": "/simple_pictures_viewer/static/js/787.b34f3f5b.chunk.js",
+    "index.html": "/simple_pictures_viewer/index.html",
+    "main.26e512e2.css.map": "/simple_pictures_viewer/static/css/main.26e512e2.css.map",
+    "main.bb9440f7.js.map": "/simple_pictures_viewer/static/js/main.bb9440f7.js.map",
+    "787.b34f3f5b.chunk.js.map": "/simple_pictures_viewer/static/js/787.b34f3f5b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.26e512e2.css",
-    "static/js/main.f1109496.js"
+    "static/js/main.bb9440f7.js"
   ]
 }
