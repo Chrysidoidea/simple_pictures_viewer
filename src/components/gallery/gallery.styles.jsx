@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 import CloseIcon from "@mui/icons-material/Close";
 export const GalleryComponent = styled.div`
   display: grid;
@@ -50,10 +50,10 @@ export const ModalWrapper = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  visibility: ${(props) => (props.active ? 'visible' : 'hidden')};
-  opacity: ${(props) => (props.active ? '1' : '0')};
-  transform: ${(props) => (props.active ? 'scale(1)' : 'scale(0)')};
-  filter: ${(props) => (props.active ? 'blur(0)' : 'blur(20px)')};
+  visibility: ${(props) => (props.active ? "visible" : "hidden")};
+  opacity: ${(props) => (props.active ? "1" : "0")};
+  transform: ${(props) => (props.active ? "scale(1)" : "scale(0)")};
+  filter: ${(props) => (props.active ? "blur(0)" : "blur(20px)")};
   transition: opacity 0.4s ease-in-out,
   visibility 0.3s ease,
   transform 0.3s ease-in-out;

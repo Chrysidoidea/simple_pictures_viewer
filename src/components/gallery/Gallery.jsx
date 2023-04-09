@@ -1,14 +1,14 @@
-import React, {useState} from 'react';
+import React, {useState} from "react";
 
-import {CloseBtn, GalleryComponent, ImageWrapper, ModalImage, ModalWrapper} from './gallery.styles';
+import {CloseBtn, GalleryComponent, ImageWrapper, ModalImage, ModalWrapper} from "./gallery.styles";
 
-import DATA from '../../data';
+import DATA from "../../data";
 
 
 const Gallery = () => {
 
     const [active, setActive] = useState(false);
-    const [tempImgSrc, setTempImgSrc] = useState('');
+    const [tempImgSrc, setTempImgSrc] = useState("");
 
     const getImg = (e) => {
 
